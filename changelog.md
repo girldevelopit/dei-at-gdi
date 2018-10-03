@@ -1,8 +1,10 @@
 # Girl Develop It Changelog
 
-The goal of this Changelog is to show how GDI is taking steps to create a more inclusive and more welcoming space for our members. 
+Girl Develop It's mission is to create welcoming, supportive opportunities for women and non-binary adults to learn software development skills.
 
-_Comments welcomed in Slack #next-steps_
+The goal of this Changelog is to show the steps GDI is taking to create a safer, more inclusive community for our members. 
+
+_Comments and feedback welcomed in Slack channel #next-steps_
 
 **10/02/2018:** 
 - HQ Team meets to begin updates to Code of Conduct policy 
