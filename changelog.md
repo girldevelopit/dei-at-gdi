@@ -36,8 +36,8 @@ _Comments welcomed in Slack #next-steps_
 - Programs Team, comprised of Shanise, Rachel, and LeeAnn, creates Summit Incident process outlining action steps to address violations of Code of Conduct during Summit
 
 **08/21/2018:**
--HQ Team meets to revise new Code of Conduct
--HQ Team shares Race, Equity, Diversity, Inclusion & Intersectionality readings and resources list with CLs in preparation for Summit
+- HQ Team meets to revise new Code of Conduct
+- HQ Team shares Race, Equity, Diversity, Inclusion & Intersectionality readings and resources list with CLs in preparation for Summit
 
 **08/20/2018:**
 - Corinne plans and confirms scope of work with Maureen Benson for Summit engagement
