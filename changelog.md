@@ -14,11 +14,11 @@ _Comments welcomed in Slack #next-steps_
 - HQ Team meets to devise plan of action/next steps for rewriting GDI’s Code of Conduct, redesigning GDI’s Harassment Policy, and establishing an Incident Reporting process
 
 **09/25/2018:** 
-- Restoratvie Justice Committee meets with Restoratvie Justice practitioner candidates
+- Restorative Justice (RJ) Committee meets with Restoratvie Justice practitioner candidates
 
 **09/24/2018:**
-- HQ Team meets with Maureen Benson and Mojdeh Stoakley
-- HQ Team creates a committee comprised of Bindu, Marisa, Corinne, to research and interview Restoratvie Justice practitioners to address rebuilding team/org trust, increasing team/org transparency, and improving team/org communication
+- HQ Team meets with Maureen Benson and [Mojdeh Stoakley](http://mojdeh.weebly.com) (Leadership Summit facilitators)
+- HQ Team creates a committee comprised of Bindu, Marisa, Corinne, to research and interview Restorative Justice practitioners to address rebuilding team/org trust, increasing team/org transparency, and improving team/org communication
 - Restoratvie Justice Committee reviews recommended RJ practitioners
 
 **09/21/2018:**
@@ -43,7 +43,7 @@ _Comments welcomed in Slack #next-steps_
 - Corinne plans and confirms scope of work with Maureen Benson for Summit engagement
 
 **07/30/2018:**
-- Corinne engages Maureen Benson, a consultant who specializes in Race, Equity, Diversity, Inclusion work at organizations to support the HQ Team in creating intersectional programming for Summit 
+- Corinne engages [Maureen Benson](http://maureenbenson.org/), a consultant who specializes in Race, Equity, Diversity, Inclusion work at organizations to support the HQ Team in creating intersectional programming for Summit 
 
 **04/26/2018:**
 - Corinne and Programs Team choose Intersectionality as the theme of Summit 2018
