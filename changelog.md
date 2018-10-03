@@ -14,12 +14,12 @@ _Comments welcomed in Slack #next-steps_
 - HQ Team meets to devise plan of action/next steps for rewriting GDI’s Code of Conduct, redesigning GDI’s Harassment Policy, and establishing an Incident Reporting process
 
 **09/25/2018:** 
-- RJ Committee meets with RJ practitioner candidates
+- Restoratvie Justice Committee meets with Restoratvie Justice practitioner candidates
 
 **09/24/2018:**
 - HQ Team meets with Maureen Benson and Mojdeh Stoakley
-- HQ Team creates a committee comprised of Bindu, Marisa, Corinne, to research and interview RJ practitioners to address rebuilding team/org trust, increasing team/org transparency, and improving team/org communication
-- RJ Committee reviews recommended RJ practitioners
+- HQ Team creates a committee comprised of Bindu, Marisa, Corinne, to research and interview Restoratvie Justice practitioners to address rebuilding team/org trust, increasing team/org transparency, and improving team/org communication
+- Restoratvie Justice Committee reviews recommended RJ practitioners
 
 **09/21/2018:**
 - Corinne seeks recommendations from CL Board Rep Brenda for post-mortem facilitators to conduct two post-mortems with the HQ Team on Minneapolis and Leadership Summit
