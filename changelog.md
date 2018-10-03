@@ -1,11 +1,51 @@
 # Girl Develop It Changelog
 
+The goal of this Changelog is to show how GDI is taking steps to create a more inclusive and more welcoming space for our members. 
 
-**8/19/2018:**
-- Lanice, a member of GDI Minneapolis, [posts a message on Twitter](https://twitter.com/LaniceSims/status/1031284727267962880) outlining her concerns about the GDI Minneapolis chapter having done a “terrible job” of being inclusive, being involved with the community, and providing a safe space for people of color
+_Comments welcomed in Slack #next-steps_
 
-**8/21/2018:**
-- Morning - Full HQ Team meets to continue revising new Code of Conduct
-- Afternoon - Corinne, Bindu, LeeAnn, and Marisa discuss Minneapolis during the Leadership Team meeting
-- Corinne [responds to Lanice on Twitter](https://twitter.com/corinnepw/status/1032115622400933888)
+**10/02/2018:** 
+- HQ Team meets to begin updates to Code of Conduct policy 
+
+**09/28/2018 - 09/30/2018:** 
+- Corinne attends anti-racism workshop, hosted by Training for Change
+
+**09/26/2018:**
+- HQ Team meets to devise plan of action/next steps for rewriting GDI’s Code of Conduct, redesigning GDI’s Harassment Policy, and establishing an Incident Reporting process
+
+**09/25/2018:** 
+- RJ Committee meets with RJ practitioner candidates
+
+**09/24/2018:**
+- HQ Team meets with Maureen Benson and Mojdeh Stoakley
+- HQ Team creates a committee comprised of Bindu, Marisa, Corinne, to research and interview RJ practitioners to address rebuilding team/org trust, increasing team/org transparency, and improving team/org communication
+- RJ Committee reviews recommended RJ practitioners
+
+**09/21/2018:**
+- Corinne seeks recommendations from CL Board Rep Brenda for post-mortem facilitators to conduct two post-mortems with the HQ Team on Minneapolis and Leadership Summit
+
+**09/20/2018:**
+- LeeAnn creates the #next-steps Slack Channel
+
+**09/12/2018:**
+- HQ Team meets with Maureen Benson
+
+**09/04/2018:**
+- LeeAnn creates an “incidents” Slack channel for HQ members to report any violations of GDI’s Code of Conduct
+- HQ Team meets with Maureen Benson
+- Programs Team, comprised of Shanise, Rachel, and LeeAnn, creates Summit Incident process outlining action steps to address violations of Code of Conduct during Summit
+
+**08/21/2018:**
+-HQ Team meets to revise new Code of Conduct
+-HQ Team shares Race, Equity, Diversity, Inclusion & Intersectionality readings and resources list with CLs in preparation for Summit
+
+**08/20/2018:**
+- Corinne plans and confirms scope of work with Maureen Benson for Summit engagement
+
+**07/30/2018:**
+- Corinne engages Maureen Benson, a consultant who specializes in Race, Equity, Diversity, Inclusion work at organizations to support the HQ Team in creating intersectional programming for Summit 
+
+**04/26/2018:**
+- Corinne and Programs Team choose Intersectionality as the theme of Summit 2018
  
+_Inspired by https://zapier.com/jobs/working-on-diversity-and-inclusivity/(https://zapier.com/jobs/working-on-diversity-and-inclusivity/) (h/t Shanise)_
