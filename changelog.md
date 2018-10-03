@@ -48,4 +48,4 @@ _Comments welcomed in Slack #next-steps_
 **04/26/2018:**
 - Corinne and Programs Team choose Intersectionality as the theme of Summit 2018
  
-_Inspired by https://zapier.com/jobs/working-on-diversity-and-inclusivity/(https://zapier.com/jobs/working-on-diversity-and-inclusivity/) (h/t Shanise)_
+_Inspired by [https://zapier.com/jobs/working-on-diversity-and-inclusivity/](https://zapier.com/jobs/working-on-diversity-and-inclusivity/) (h/t Shanise)_
