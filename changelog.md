@@ -10,7 +10,7 @@ _Comments and feedback welcomed in Slack channel #next-steps_
 - HQ Team meets to begin updates to Code of Conduct policy 
 
 **09/28/2018 - 09/30/2018:** 
-- Corinne attends anti-racism workshop, hosted by Training for Change
+- Corinne attends anti-racism workshop, hosted by Training for Change; evaluates Training for Change for future DE&I workshops for HQ Team
 
 **09/26/2018:**
 - HQ Team meets to devise plan of action/next steps for rewriting GDI’s Code of Conduct, redesigning GDI’s Harassment Policy, and establishing an Incident Reporting process
