@@ -6,6 +6,14 @@ The goal of this Changelog is to show the steps GDI is taking to create a safer,
 
 _Comments and feedback welcomed in Slack channel #next-steps_
 
+**10/04/2018:** 
+- Corinne sends public statement for Medium to review by Board of Directors
+- LeeAnn completes Incident reporting form
+- Marisa & Rachel shares changelog, incident reporting form in October CL newsletter
+
+**10/03/2018:** 
+- Corinne drafts public statement addressing Minneapolis and outlining action steps for Medium
+
 **10/02/2018:** 
 - HQ Team meets to begin updates to Code of Conduct policy 
 
