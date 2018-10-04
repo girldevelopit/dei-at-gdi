@@ -8,6 +8,8 @@ _Comments and feedback welcomed in Slack channel #next-steps_
 
 **10/04/2018:** 
 - Corinne sends public statement for Medium to review by Board of Directors
+- RJ Committee meets to evaluate two Scope of Work proposals
+- Marisa creates and sends feedback survey on RJ SOWs to HQ Team for feedback
 - LeeAnn completes Incident reporting form
 - Marisa & Rachel shares changelog, incident reporting form in October CL newsletter
 
