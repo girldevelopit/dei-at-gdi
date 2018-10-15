@@ -20,7 +20,7 @@ _Comments and feedback welcomed in GDI Slack channel #changelog_
 - Corinne sends public statement for Medium to review by Board of Directors
 - RJ Committee meets to evaluate two Scope of Work (SOW) proposals
 - Marisa creates and sends feedback survey on RJ SOWs to HQ Team for feedback
-- LeeAnn completes Incident reporting form
+- LeeAnn completes [Incident reporting form](https://goo.gl/forms/zFqymFD1uee6Twnw2)
 - Marisa & Rachel shares changelog, incident reporting form in October CL newsletter
 
 **10/03/2018:** 
