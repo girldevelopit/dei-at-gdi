@@ -2,19 +2,26 @@
 
 Girl Develop It's mission is to create welcoming, supportive opportunities for women and non-binary adults to learn software development skills.
 
-The goal of this Changelog is to show the steps GDI is taking to create a safer, more inclusive community for our members. 
+The goal of this Changelog is to show the steps GDI's HQ Team is taking to create a safer, more inclusive community for all of our members. 
 
-_Comments and feedback welcomed in Slack channel #next-steps_
+_Comments and feedback welcomed in GDI Slack channel #next-steps_
 
-**10/15/2018:** 
-- HQ Team hires a consultant team, which includes a Restorative Justice practitioner 
+**10/15/2018**
+- Corinne signs contract to engage Chrysta Wilson and Associates, including Danielle Nava-Mijares for short and long-term support including a listening tour and restorative circle facilitation
+- HQ Team members schedule initial meetings with Chrysta Wilson and Associates
+
+**10/10/2018**
+- Corinne discusses public statement and SOW proposal with Board for feedback in Board meeting
+- Board determines scope of public statement needs to be more expansive; plans new timeline for edits and feedback
+- RJ Committee (Bindu & Marisa only) meets with Chrysta Wilson and Danielle Nava-Mijares to discuss SOW
+- RJ Committee reviews HQ team survey feedback on RJ SOWs
 
 **10/04/2018:** 
 - Corinne sends public statement for Medium to review by Board of Directors
-- RJ Committee meets to evaluate two Scope of Work proposals
+- RJ Committee meets to evaluate two Scope of Work (SOW) proposals
 - Marisa creates and sends feedback survey on RJ SOWs to HQ Team for feedback
 - LeeAnn completes Incident reporting form
-- Marisa & Rachel share changelog, incident reporting form in October CL newsletter
+- Marisa & Rachel shares changelog, incident reporting form in October CL newsletter
 
 **10/03/2018:** 
 - Corinne drafts public statement addressing Minneapolis and outlining action steps for Medium
