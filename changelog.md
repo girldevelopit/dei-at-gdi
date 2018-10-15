@@ -7,7 +7,7 @@ The goal of this Changelog is to show the steps GDI's HQ Team is taking to creat
 _Comments and feedback welcomed in GDI Slack channel #changelog_
 
 **10/15/2018**
-- Corinne signs contract to engage Chrysta Wilson and Associates, including Danielle Nava-Mijares for short and long-term support including a listening tour and restorative circle facilitation
+- Corinne signs contract to engage [Chrysta Wilson and Associates](http://www.wilson-and-associates.com), including [Danielle Nava-Mijares](https://www.daniellenavaconsulting.com/) for short and long-term support including a listening tour and restorative circle facilitation
 - HQ Team members schedule initial meetings with Chrysta Wilson and Associates
 
 **10/10/2018**
