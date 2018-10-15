@@ -4,7 +4,7 @@ Girl Develop It's mission is to create welcoming, supportive opportunities for w
 
 The goal of this Changelog is to show the steps GDI's HQ Team is taking to create a safer, more inclusive community for all of our members. 
 
-_Comments and feedback welcomed in GDI Slack channel #next-steps_
+_Comments and feedback welcomed in GDI Slack channel #changelog_
 
 **10/15/2018**
 - Corinne signs contract to engage Chrysta Wilson and Associates, including Danielle Nava-Mijares for short and long-term support including a listening tour and restorative circle facilitation
