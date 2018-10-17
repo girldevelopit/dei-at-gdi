@@ -67,6 +67,9 @@ _Comments and feedback welcomed in GDI Slack channel #changelog_
 **07/30/2018:**
 - Corinne engages [Maureen Benson](http://maureenbenson.org/), a consultant who specializes in Race, Equity, Diversity, Inclusion work at organizations to support the HQ Team in creating intersectional programming for Summit 
 
+**06/12/2018:**
+- Vanessa attends "Race, Equity, and Your Organization" workshop for Board members by [Dialectix Consulting](https://dialectixconsulting.com/), shares resources and takeaways from session in 6/13 Board meeting
+
 **04/26/2018:**
 - Corinne and Programs Team choose Intersectionality as the theme of Summit 2018
  
