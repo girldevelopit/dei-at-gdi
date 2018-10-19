@@ -7,7 +7,7 @@ The goal of this Changelog is to show the steps GDI's HQ Team is taking to creat
 _Comments and feedback welcomed in GDI Slack channel #changelog_
 
 **10/17/2018**
-— GDI HQ hosts CL listening hour; responds to questions and listens to concerns from CLs. Call is recorded for CLs who aren't able to attend, and Marisa takes notes of conversation for review.
+- GDI HQ hosts CL listening hour; responds to questions and listens to concerns from CLs. Call is recorded for CLs who aren't able to attend, and Marisa takes notes of conversation for review.
 - LeeAnn shares link to recording for CLs
 - Corinne shares public statement with five CLs and requests feedback
 
