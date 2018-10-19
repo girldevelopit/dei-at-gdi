@@ -6,13 +6,27 @@ The goal of this Changelog is to show the steps GDI's HQ Team is taking to creat
 
 _Comments and feedback welcomed in GDI Slack channel #changelog_
 
+**10/17/2018**
+— GDI HQ hosts CL listening hour; responds to questions and listens to concerns from CLs. Call is recorded for CLs who aren't able to attend, and Marisa takes notes of conversation for review.
+- LeeAnn shares link to recording for CLs
+- Corinne shares public statement with five CLs and requests feedback
+
+**10/16/2018**
+- Corinne shares updated public statement with Board for review and feedback
+- Corinne shares public statement with HQ Team for review and feedback
+
 **10/15/2018**
 - Corinne signs contract to engage [Chrysta Wilson and Associates](http://www.wilson-and-associates.com), including [Danielle Nava-Mijares](https://www.daniellenavaconsulting.com/) for short and long-term support including a listening tour and restorative circle facilitation
 - HQ Team members schedule initial meetings with Chrysta Wilson and Associates
 
+**10/11/2018**
+- Brenda connects Corinne with communications consultant, [Ariella Steinhorn](https://www.ariellasteinhorn.com), to give pro bono feedback on public statement; Ariella asks Corinne to clarify who the audience for statement is, and recommends based on the answer (the GDI community) that the statement go directly in an email to all community members vs a Medium post
+- Corinne seeks feedback from Board on guidance from Ariella
+
 **10/10/2018**
 - Corinne discusses public statement and SOW proposal with Board for feedback in Board meeting
 - Board determines scope of public statement needs to be more expansive; plans new timeline for edits and feedback
+- Board asks if crisis communications consultants have been engaged; Brenda and Erica offer to make connections to Corinne
 - RJ Committee (Bindu & Marisa only) meets with Chrysta Wilson and Danielle Nava-Mijares to discuss SOW
 - RJ Committee reviews HQ team survey feedback on RJ SOWs
 
