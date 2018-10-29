@@ -6,6 +6,12 @@ The goal of this Changelog is to show the steps GDI's HQ Team is taking to creat
 
 _Comments and feedback welcomed in GDI Slack channel #changelog_
 
+**10/25/2018**
+- HQ Team completes discovery phase interviews with Restorative Justice consultants
+
+**10/19/2018**
+- Corinne sends [public statement](https://docs.google.com/document/d/1K2J04Osu_0HiudPgUuDULjif_WS1CwhHGJWqpzwYTSM/) to GDI Community members via Meetup.com
+
 **10/17/2018**
 - GDI HQ hosts CL listening hour; responds to questions and listens to concerns from CLs. Call is recorded for CLs who aren't able to attend, and Marisa takes notes of conversation for review.
 - LeeAnn shares link to recording for CLs
@@ -14,10 +20,13 @@ _Comments and feedback welcomed in GDI Slack channel #changelog_
 **10/16/2018**
 - Corinne shares updated public statement with Board for review and feedback
 - Corinne shares public statement with HQ Team for review and feedback
+- Restorative Justice consultants (Chrysta Wilson and Associates) begin discovery phase with HQ Team
+- Programs teams closes Summit 2018 feedback form, shares responses with team for review
 
 **10/15/2018**
 - Corinne signs contract to engage [Chrysta Wilson and Associates](http://www.wilson-and-associates.com), including [Danielle Nava-Mijares](https://www.daniellenavaconsulting.com/) for short and long-term support including a listening tour and restorative circle facilitation
 - HQ Team members schedule initial meetings with Chrysta Wilson and Associates
+- Mojdeh Stoakley shares consolidated feedback for leadership from Summit POC affinity group
 
 **10/11/2018**
 - Brenda connects Corinne with communications consultant, [Ariella Steinhorn](https://www.ariellasteinhorn.com), to give pro bono feedback on public statement; Ariella asks Corinne to clarify who the audience for statement is, and recommends based on the answer (the GDI community) that the statement go directly in an email to all community members vs a Medium post
