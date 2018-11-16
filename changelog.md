@@ -6,8 +6,23 @@ The goal of this Changelog is to show the steps GDI's HQ Team is taking to creat
 
 _Comments and feedback welcomed in GDI Slack channel #changelog_
 
+**11/16/2018**
+- Bindu and Corinne meet with Chrysta Wilson and Associates to develop plan for next phase of work
+
+**11/09/2018** 
+- Bindu and Corinne meet with Chrysta Wilson and Associates to discuss next phase of work and logistics
+
+**11/08/2018**
+- Corinne, LeeAnn and Rachel attend Leeway Foundation launch event for [TransForming Inclusion: An Organizational Guide](https://issuu.com/leeway/docs/transforming_inclusion_digital) to learn best practices, and hear from leading experts on building tools for inclusion and affirmation of trans and gender nonconforming people
+
+**11/06/2018**
+- Chrysta Wilson and Associates complete and share proposal for next steps in restorative process with Bindu and Corinne
+
 **10/25/2018**
-- HQ Team completes discovery phase interviews with Restorative Justice consultants
+- HQ Team completes discovery phase interviews with Chrysta Wilson and Associates
+
+**10/22/2018**
+- Bindu and Corinne meet with HR consultant, [Cherizza Lundy](https://www.linkedin.com/in/cherizza-lundy-79983b13), to support contract work regarding HR-related policies, including updates to employee handbook
 
 **10/19/2018**
 - Corinne sends [public statement](https://docs.google.com/document/d/1K2J04Osu_0HiudPgUuDULjif_WS1CwhHGJWqpzwYTSM/) to GDI Community members via Meetup.com
