@@ -6,14 +6,67 @@ The goal of this Changelog is to show the steps GDI's HQ Team is taking to creat
 
 _Comments and feedback welcomed in GDI Slack channel #changelog_
 
+**01/11/2019**
+- Board of Directors host two open virtual Town Hall meetings on RingCentral
+https://docs.google.com/document/d/1HCpOgPEAzlM0bOMUEGJEYr_Awg4szR5g-UWrHpHMT9w/edit (notes taken by Rachel)
+
+**01/10/2019**
+- Board engages independent investigator to perform investigation into allegations made by former HQ employees; investigation is initiated
+
+**01/09/2019**
+- Board of Directors check-in to discuss upcoming Town Hall events (attendees: Brenda, Corinne, Erica and Janelle)
+- At Board’s request, Corinne sets up tool for community to submit questions in advance of Town Hall discussions
+
+**01/07/2019:**
+- Corinne & Bindu review and approve updated equitable sourcing, recruiting and hiring plan proposal shared by HR consultant (pending approval by Board) as well as employee conflict resolution policy (pending approval by Board)
+
+**12/12/2018:** 
+- Board, with help from HQ Team, publish blog post on GDI’s Medium: Commitment to Moving Forward, outlining actions being taken [https://medium.com/@girldevelopit/commitment-to-moving-forward-f0fadadd783e]
+
+**12/11/2018:**
+- Corinne and Bindu meet with Restorative Justice consultants to discuss next steps in process
+
+**12/10/2018:** 
+- Board of Directors hold Emergency Board Meeting (attendees include Brenda, Corinne, Erica and Janelle)
+- Erica shares Board’s response to _Open Letter_ to CLs on internal GDI Slack 
+- Erica creates #boardfeedback channel on internal GDI Slack to provide greater avenue for direct contact between Board and CLs
+
+**12/07/2018 - 12/09/2018:** 
+- Board members meet to discuss and write response to _Open Letter_ (penned by group of former and current CLs); HQ Leadership Team submits information and supporting documentation to Board and answers questions
+
+**12/08/2018**
+- Rachel attends _The Start: An Anti-Racism Workshop_ in NYC with Rachel Cargle [https://www.rachelcargle.com/] an intimate and intensive conversation exploring race, white supremacy, feminism and the work we must all do to be a part of the solution.
+
+**12/07/2018:**
+- Corinne, Brenda, Erica, and Bindu participate in Open CL Forum #2 with ~30 CLs and former CLs
+
+**12/06/2018:** 
+- Members of the Board of Directors (Brenda Jin, Erica Baker and Janelle Jolley) and Corinne write press release in response to former employee airing grievances about working at GDI on a podcast.
+- Board of Directors commit to hosting Town Hall Discussions open to the community, and schedule them for January 11, 2019.
+- Corinne shares press release on GDI Twitter [https://twitter.com/girldevelopit/status/1070814978452660226], re-affirming GDI’s commitment to “building an inclusive, diverse, and equitable culture, and ensuring that our actions and those of all community members are aligned with those values.”
+
+**12/05/2018:**
+- Corinne schedules two open discussion forums for CLs to discuss former GDI employee airing grievances about working at GDI on a podcast
+- Corinne, Bindu and Brenda attend Open CL Forum #1 along with ~15 CLs
+
+**11/18/2018:**
+- LeeAnn attends _The Start: An Anti-Racism Workshop_ in Philadelphia with Rachel Cargle [https://www.rachelcargle.com/] an intimate and intensive conversation exploring race, white supremacy, feminism and the work we must all do to be a part of the solution.
+
+**11/17/2018:**
+- LeeAnn attends _Unpacking White Feminism_ a lecture exploring the history of feminism through the lens of race. Uncovering layers of unlearned details, revealing the problematic effects that white centered activism has had on the past and present of the feminist movement and action items that can be taken to be more intentional and inclusive.
+
 **11/16/2018**
 - Bindu and Corinne meet with Chrysta Wilson and Associates to develop plan for next phase of work
+
+**11/14/2018:**
+- Bindu meets with HR consultant to discuss updates to HR policies, including policies on employee conflict resolution, recruitment and hiring, performance review process, anti-harassment and more.
 
 **11/09/2018** 
 - Bindu and Corinne meet with Chrysta Wilson and Associates to discuss next phase of work and logistics
 
 **11/08/2018**
 - Corinne, LeeAnn and Rachel attend Leeway Foundation launch event for [TransForming Inclusion: An Organizational Guide](https://issuu.com/leeway/docs/transforming_inclusion_digital) to learn best practices, and hear from leading experts on building tools for inclusion and affirmation of trans and gender nonconforming people
+- Bindu (Director of Operations) engages independent investigator to investigate allegations made by an HQ employee of racist comments and microaggressions
 
 **11/06/2018**
 - Chrysta Wilson and Associates complete and share proposal for next steps in restorative process with Bindu and Corinne
